@@ -1,0 +1,9 @@
+openai==1.97.0
+pydantic==2.11.7
+pypandoc==1.15
+PyPDF2==3.0.1
+python-dotenv==1.1.1
+python-slugify==8.0.4
+python_docx==1.2.0
+rdflib==7.1.4
+rich==14.0.0
