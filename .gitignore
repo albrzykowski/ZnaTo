@@ -208,6 +208,7 @@ __marimo__/
 
 # Custom poject files
 
-corpus/
+input/
+output/
 *.ttl
 *.swrl
